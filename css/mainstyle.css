@@ -11,21 +11,21 @@ body {
 }
 
 .headersite-logo {
-    width: 120px;
-    height: 100%;
+    width: 160px;
+    height: 80%;
     background-color: blue;
 }
 
 .headersite-nav {
     width: 120px;
     height: 100%;
-    background-color: blue;
+    background-color: rgb(41, 41, 105);
     
 }
 
 .headersite-support {
     width: 120px;
     height: 100%;
-    background-color: blue;
+    background-color: rgb(208, 255, 0);
     
 }
