@@ -2,6 +2,10 @@ body {
     background-color: #1f1f1f;
 }
 
+a {
+    cursor: pointer;
+}
+
 .headersite {
     width: 100%;
     height: 65px;
@@ -16,6 +20,7 @@ body {
     width: fit-content;
     height: 100%;
     background-color: blue;
+    display: flex;
 }
 
 .headersite-logo img {
@@ -23,10 +28,23 @@ body {
 }
 
 .headersite-nav {
-    width: 120px;
+    width: fit-content;
     height: 100%;
     background-color: rgb(41, 41, 105);
     
+}
+
+.headersite-nav ul {
+    list-style: none;
+}
+
+.headersite-nav ul li{
+    display: inline;
+    float: left;
+}
+
+.headersite-nav u li a{
+    padding: 0 10px;
 }
 
 .headersite-support {
