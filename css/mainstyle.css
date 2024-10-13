@@ -36,7 +36,6 @@ a {
 
 .headersite-nav ul {
     list-style: none;
-    margin-left: 15px;
 }
 
 .headersite-nav ul li{
@@ -46,8 +45,8 @@ a {
 
 .headersite-nav u li a{
     padding: 0 10px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 65px;
 }
 
 .headersite-support {
